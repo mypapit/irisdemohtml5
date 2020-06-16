@@ -4,8 +4,11 @@ Sample Implementation of Iris Classification with Weka J48 Decision Tree in HTML
 # Author
 Mohammad Hafiz bin Ismail <mypapit@gmail.com>
 
-# Video Presentation
-Youtube Video
+# Video Presentation (Malay Language)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ubqigof20L4/0.jpg)](https://www.youtube.com/watch?v=Ubqigof20L4
+
+# Live Preview
+https://mypapit.net/demo/iris/
 
 # Citation
 If you build upon your work based on this video or the source code, I wished that you could cite my work as:
