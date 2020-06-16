@@ -1,4 +1,4 @@
-# irisdemohtml5
+# Description
 Sample Implementation of Iris Classification with Weka J48 Decision Tree in HTML5 Mobile Web Application (with source code)
 
 # Author
