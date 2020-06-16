@@ -10,7 +10,7 @@ Youtube Video
 # Citation
 If you build upon your work based on this video or the source code, I wished that you could cite my work as:
 
-Ismail, M. H. (2020, June 16). Sample Implementation of Iris Classification with Weka J48 Decision Tree in HTML5 Mobile Web Application (with source code). Retrieved June 16, 2020, from https://github.com/mypapit/irisdemohtml5
+*Ismail, M. H. (2020, June 16). "Sample Implementation of Iris Classification with Weka J48 Decision Tree in HTML5 Mobile Web Application (with source code)". Retrieved June 16, 2020, from https://github.com/mypapit/irisdemohtml5*
 
 # License
 Copyright 2020 Mohammad Hafiz bin Ismail <mypapit@gmail.com>
